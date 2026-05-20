@@ -1,0 +1,12 @@
+{
+  "device": "cpu",
+  "epochs": 5,
+  "batch_size": 128,
+  "lr": 0.01,
+  "train_size": 5000,
+  "test_size": 1000,
+  "seed": 42,
+  "elapsed_time_sec": 51.60336780548096,
+  "test_loss": 1.8211836366653442,
+  "test_accuracy": 31.8
+}
